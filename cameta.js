@@ -7,35 +7,43 @@
     "cursos": {
         "especializacao-em-neurociencias-e-comportamento-humano": {
             "a-vista": "?utm=pos-aovivo-unama-cameta1&utm_source=posgradunama&utm_campaign=especializa%C3%A7%C3%A3oemneuroci%C3%AAnciasecomportamentohumano&coupon=UNAMA5",
-            "parcelado": "?utm=pos-aovivo-unama-cameta7&utm_source=posgradunama&utm_campaign=especializa%C3%A7%C3%A3oemneuroci%C3%AAnciasecomportamentohumano"
+            "parcelado": "?utm=pos-aovivo-unama-cameta7&utm_source=posgradunama&utm_campaign=especializa%C3%A7%C3%A3oemneuroci%C3%AAnciasecomportamentohumano",
+            "preco":"De <strike>R$ 3.798,12</strike> por<br><b style='font-size:140%'>18 x R$ 153,93</b><br>ou R$ 2770,74 à vista"
         },
         "especializacao-em-farmacia-clinica-e-atencao-farmaceutica": {
             "a-vista": "?utm=pos-aovivo-unama-cameta4&utm_source=posgradunama&utm_campaign=especializa%C3%A7%C3%A3oemfarm%C3%A1ciacl%C3%ADnicaeaten%C3%A7%C3%A3ofarmac%C3%AAutica&coupon=UNAMA8",
-            "parcelado": "?utm=pos-aovivo-unama-cameta10&utm_source=posgradunama&utm_campaign=especializa%C3%A7%C3%A3oemfarm%C3%A1ciacl%C3%ADnicaeaten%C3%A7%C3%A3ofarmac%C3%AAutica"
+            "parcelado": "?utm=pos-aovivo-unama-cameta10&utm_source=posgradunama&utm_campaign=especializa%C3%A7%C3%A3oemfarm%C3%A1ciacl%C3%ADnicaeaten%C3%A7%C3%A3ofarmac%C3%AAutica",
+            "preco":"De <strike>R$ 3.798,11</strike> por<br><b style='font-size:140%'>18 x R$ 109,95</b><br>ou R$ 1979,10 à vista"
         },
         "ao-vivo-especializacao-em-direito-penal-e-processo-penal": {
             "a-vista": "?utm=pos-aovivo-unama-cameta5&utm_source=posgradunama&utm_campaign=especializaçãoemdireitopenaleprocessopenal&coupon=UNAMA9",
-            "parcelado": "?utm=pos-aovivo-unama-cameta11&utm_source=posgradunama&utm_campaign=especializaçãoemdireitopenaleprocessopenal"
+            "parcelado": "?utm=pos-aovivo-unama-cameta11&utm_source=posgradunama&utm_campaign=especializaçãoemdireitopenaleprocessopenal",
+            "preco":"De <strike>R$ 3.418,08</strike> por<br><b style='font-size:140%'>18 x R$ 99,95</b><br>ou R$ 1799,10 à vista"
         },
         "ao-vivo-especializacao-em-direito-do-trabalho-previdenciario": {
             "a-vista": "?utm=pos-aovivo-unama-cameta-2&utm_source=posgradunama&utm_campaign=especializaçãoemdireitodotrabalhoprevidenciário&coupon=UNAMA6",
-            "parcelado": "?utm=pos-aovivo-unama-cameta8&utm_source=posgradunama&utm_campaign=especializaçãoemdireitodotrabalhoprevidenciário"
+            "parcelado": "?utm=pos-aovivo-unama-cameta8&utm_source=posgradunama&utm_campaign=especializaçãoemdireitodotrabalhoprevidenciário",
+            "preco":"De <strike>R$ 3.418,08</strike> por<br><b style='font-size:140%'>18 x R$ 139,93</b><br>ou R$ 2518,74 à vista"
         },
         "ao-vivo-mba-em-gestao-de-pessoas": {
             "a-vista": "?utm=pos-aovivo-unama-cameta-3&utm_source=posgradunama&utm_campaign=mbaemgestãodepessoas&coupon=UNAMA7",
-            "parcelado": "?utm=pos-aovivo-unama-cameta9&utm_source=posgradunama&utm_campaign=mbaemgestãodepessoas"
+            "parcelado": "?utm=pos-aovivo-unama-cameta9&utm_source=posgradunama&utm_campaign=mbaemgestãodepessoas",
+            "preco":"De <strike>R$ 4.178,15</strike> por<br><b style='font-size:140%'>18 x R$ 120,95</b><br>ou R$ 2177,10 à vista"
         },
         "ao-vivo-especializacao-em-gestao-de-departamento-pessoal-e-legislacao-trabalhista": {
             "a-vista": "?utm=pos-aovivo-unama-cameta&utm_source=posgradunama&utm_campaign=especializaçãoemgestãodedepartamentopessoalelegislaçãotrabalhista&coupon=UNAMA4",
-            "parcelado": "?utm=pos-aovivo-unama-cameta6&utm_source=posgradunama&utm_campaign=especializaçãoemgestãodedepartamentopessoalelegislaçãotrabalhista"
+            "parcelado": "?utm=pos-aovivo-unama-cameta6&utm_source=posgradunama&utm_campaign=especializaçãoemgestãodedepartamentopessoalelegislaçãotrabalhista",
+            "preco":"De <strike>R$ 5.013,77</strike> por<br><b style='font-size:140%'>18 x R$ 169,33</b><br>ou R$ 3047,94 à vista"
         },
         "ao-vivo-especializacao-em-psicologia-organizacional-e-do-trabalho": {
             "a-vista": "?utm=pos-aovivo-unama-cameta4&utm_source=posgradunama&utm_campaign=especializaçãoempsicologiaorganizacionaledotrabalho&coupon=UNAMA8",
-            "parcelado": "?utm=pos-aovivo-unama-cameta10&utm_source=posgradunama&utm_campaign=especializaçãoempsicologiaorganizacionaledotrabalho"
+            "parcelado": "?utm=pos-aovivo-unama-cameta10&utm_source=posgradunama&utm_campaign=especializaçãoempsicologiaorganizacionaledotrabalho",
+            "preco":"De <strike>R$ 3.798,12</strike> por<br><b style='font-size:140%'>18 x R$ 109,95</b><br>ou R$ 1979,10 à vista"
         },
         "ao-vivo-especializacao-em-tea-transtorno-do-espectro-autista": {
             "a-vista": "?utm=pos-aovivo-unama-cameta-2&utm_source=posgradunama&utm_campaign=especializaçãoemtea–transtornodoespectroautista&coupon=UNAMA6",
-            "parcelado": "?utm=pos-aovivo-unama-cameta8&utm_source=posgradunama&utm_campaign=especializaçãoemtea–transtornodoespectroautista"
+            "parcelado": "?utm=pos-aovivo-unama-cameta8&utm_source=posgradunama&utm_campaign=especializaçãoemtea–transtornodoespectroautista",
+            "preco":"De <strike>R$ 3.418,08</strike> por<br><b style='font-size:140%'>18 x R$ 139,93</b><br>ou R$ 2518,74 à vista"
         },
         "mba-em-gestao-de-pessoas": {
             "a-vista": "?utm=pos-grad-unama-cameta&utm_source=posgradunama&utm_campaign=mba em gestão de pessoas&coupon=UNAMA2",
