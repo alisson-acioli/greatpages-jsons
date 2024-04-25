@@ -4,6 +4,8 @@
     "polo-telefone1": "91 98522-0056",
     "polo-telefone2": "81 98180-1386",
     "polo-whatsapp": "https://wa.link/w4h3j4",
+    "polo-google-gtm": "GTM-KCNBNQSJ",
+    "polo-facebook-pixel": "1234567890",
     "cursos": {
         "especializacao-em-neurociencias-e-comportamento-humano": {
             "a-vista": "?utm=pos-aovivo-unama-cameta1&utm_source=posgradunama&utm_campaign=especializa%C3%A7%C3%A3oemneuroci%C3%AAnciasecomportamentohumano&coupon=UNAMA5",
